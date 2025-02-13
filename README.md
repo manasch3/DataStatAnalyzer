@@ -39,17 +39,17 @@ The Statistical Analysis Tool is a Python-based project that performs key statis
   
 📜 Example Output
 
--  🔎 ENTER THE DATA (Separated by spaces) : 12 18 24 30 36
+🔎 **ENTER THE DATA (Separated by spaces):** 12 18 24 30 36  
 
-   🎉 STATISTICAL ANALYSIS RESULTS 🎉
+🎉 **STATISTICAL ANALYSIS RESULTS 🎉**  
 
-   - 🔥 Mean : 24.00
-   - 🔥 Median : 24.00
-   - 🔥 Mode : NO MODE
-   - 🔥 Variance : 86.40
-   - 🔥 Standard Deviation : 9.30
-   - 🔥 Minimum Value : 12.00
-   - 🔥 Maximum Value : 36.00
+🔥 **Mean:** 24.00  
+🔥 **Median:** 24.00  
+🔥 **Mode:** NO MODE  
+🔥 **Variance:** 86.40  
+🔥 **Standard Deviation:** 9.30  
+🔥 **Minimum Value:** 12.00  
+🔥 **Maximum Value:** 36.00  
 
 🤝 Contributing
 
